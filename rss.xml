@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>twitch</title>
+        <link>https://www.twitch.tv/</link>
+        <description>live sits</description>
+    <item>
+        <title>Tyler's live streaming</title>
+        <link>https://www.twitch.tv/videos/865697671</link>
+        <description>A noob player of League of Legends</description>
+    </item>
+    <item>
+        <title>S1mple's live streaming</title>
+        <link>https://www.twitch.tv/s1mple</link>
+        <description>The best csgo plyaer</description>
+    </item>
+    </channel>
+</rss> 

@@ -1,15 +1,31 @@
-  <style>
-  #para1 {
-      font-family: verdana;
-      font-size: 100%;
-  }
-  #para2 {
-      font-family:'Times New Roman', Times, serif;
-      font-size: 100%;
-  }
-  #para3{
-      position: relative;
-      display:inline-block;
-      border: 5px dotted rgb(0, 0, 0);
-  } 
-</style>
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#para1 {
+        font-family: verdana;
+        font-size: 100%;
+        border-radius: 25px;
+        background: #73AD21;
+        padding: 20px;
+        width: 200px;
+        height: 150px;
+        float: none;
+    }
+#para2 {
+        font-family:'Times New Roman', Times, serif;
+        font-size: 100%;
+        float:right
+    }
+#para3{
+        position: relative;
+        display:inline-block;
+        border: 5px dotted rgb(0, 0, 0);
+}

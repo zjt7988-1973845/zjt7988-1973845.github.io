@@ -1,0 +1,15 @@
+  <style>
+  #para1 {
+      font-family: verdana;
+      font-size: 100%;
+  }
+  #para2 {
+      font-family:'Times New Roman', Times, serif;
+      font-size: 100%;
+  }
+  #para3{
+      position: relative;
+      display:inline-block;
+      border: 5px dotted rgb(0, 0, 0);
+  } 
+</style>

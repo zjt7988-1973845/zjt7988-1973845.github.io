@@ -17,12 +17,6 @@ a, button { transition: all 0.3s ease; }
 
 html {
   box-sizing: border-box;
-  -ms-overflow-style: scrollbar;
-}
-
-*,
-*::before,
-*::after {
 
 }
 
